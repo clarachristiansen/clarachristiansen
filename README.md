@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 Hello! I'm Clara Sofie Christiansen, currently pursuing a degree in "Artificial Intelligence and Data" at the Technical University of Denmark. I'm genuinely passionate about the potential of data science, machine learning and AI to solve complex problems.
+I'm Clara Sofie Christiansen, currently pursuing a degree in "Artificial Intelligence and Data" at the Technical University of Denmark. I'm genuinely passionate about the potential of data science, machine learning and AI to solve complex problems.
 
 My academic journey has been a blend of theory and hands-on experience which I have found rewarding. During my semester abroad in Melbourne, Australia, I had the opportunity to delve into advanced topics like "Deep Learning and Neural Networks," which broadened my perspectives and enhanced my practical skills, particularly in PyTorch.
 
