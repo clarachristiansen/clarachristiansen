@@ -5,6 +5,8 @@ My academic journey has been a blend of theory and hands-on experience which I h
 
 Currently, I'm working on my bachelor thesis in collaboration with DSB, focusing on analyzing train punctuality data. This project has been a challenging yet rewarding opportunity to apply my knowledge in data analysis, machine learning and AI to real-world scenarios.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <!--
 **clarachristiansen/clarachristiansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
