@@ -1,6 +1,9 @@
 ### Hi there 👋
+👋 Hello! I'm Clara Sofie Christiansen, currently pursuing a degree in "Artificial Intelligence and Data" at the Technical University of Denmark. I'm genuinely passionate about the potential of data science, machine learning and AI to solve complex problems.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarachristiansen)](https://github.com/anuraghazra/github-readme-stats)
+My academic journey has been a blend of theory and hands-on experience which I have found rewarding. During my semester abroad in Melbourne, Australia, I had the opportunity to delve into advanced topics like "Deep Learning and Neural Networks," which broadened my perspectives and enhanced my practical skills, particularly in PyTorch.
+
+Currently, I'm working on my bachelor thesis in collaboration with DSB, focusing on analyzing train punctuality data. This project has been a challenging yet rewarding opportunity to apply my knowledge in data analysis, machine learning and AI to real-world scenarios.
 
 <!--
 **clarachristiansen/clarachristiansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
