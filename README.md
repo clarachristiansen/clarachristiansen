@@ -1,9 +1,8 @@
-### Hi there 👋
-I'm Clara Sofie Christiansen, currently pursuing an engineering degree in "Artificial Intelligence and Data" at the Technical University of Denmark. I'm passionate about the potential of data science, machine learning and AI to solve complex problems.
+### Hi!
+My name is Clara and I am currently pursuing my Master's engineering degree in "Human-Centered Artificial Intelligence" at the Technical University of Denmark.
 
-My academic journey has been a mix of theory and hands-on experience which I have found rewarding. During my semester abroad in Melbourne, Australia, I had the opportunity to delve into advanced topics like "Deep Learning and Neural Networks," which broadened my perspectives and enhanced my practical skills, particularly in PyTorch.
-
-Currently, I'm working on my bachelor thesis in collaboration with DSB, focusing on analyzing train punctuality data. This project has been a challenging yet rewarding opportunity to apply my knowledge in data analysis, machine learning and AI to real-world scenarios.
+I enjoy working with real-world datasets, solving complex problems, and making solutions work in practice.
+This GitHub is where I keep projects and experiments from my studies and spare time. Naturally, not all of my projects are publicly available.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
